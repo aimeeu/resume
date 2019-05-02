@@ -1,4 +1,3 @@
----
-layout: page
-permalink: /Home/
----
+
+
+This is the index page
