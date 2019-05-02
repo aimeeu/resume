@@ -1,1 +1,4 @@
-Index
+---
+layout: page
+permalink: /Home/
+---
